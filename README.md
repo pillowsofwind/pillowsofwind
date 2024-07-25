@@ -7,3 +7,5 @@
 - 👫🏻 Social Computing and LLM
 
 🤗 If you are interested in my work or see potential for collaboration, please do not hesitate to contact me!
+
+👉 [[Email]](mailto:xrw22@mails.tsinghua.edu.cn) that I check it daily.
