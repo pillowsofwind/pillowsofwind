@@ -5,6 +5,7 @@
 - Evaluation
 - Robustness
 - Interpretability
+- Societal impact of AI models: safety and more 
 
 🤗 If you are interested in my work or see potential for collaboration, please do not hesitate to contact me!
 
