@@ -1,6 +1,6 @@
 ## Hello World! I am Xu Rongwu 👋
 
-🤖 I am currently a master student focus on various topics regarding NLP, including but not limited to:
+🤖 I am currently a master student focus on various topics regarding NLP and AI, including but not limited to:
 
 - Evaluation
 - Robustness
