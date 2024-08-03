@@ -2,7 +2,7 @@
 
 🤖 I am currently a master student focus on various topics regarding **NLP and AI**, including but not limited to:
 
-- Learning with Data
+- Data-Driven Learning
 - Evaluation and Simulation
 - Societal Impact of AI Models: Safety, Ethicality and more 
 
