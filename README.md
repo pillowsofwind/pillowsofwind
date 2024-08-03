@@ -4,7 +4,7 @@
 
 - Learning with Data
 - Evaluation and Simulation
-- Societal impact of AI models: safety, ethicality and more 
+- Societal Impact of AI Models: Safety, Ethicality and more 
 
 🤗 If you are interested in my work (refer to [[this link]](https://rongwuxu.site)) or see potential for collaboration, please do not hesitate to contact me!
 
