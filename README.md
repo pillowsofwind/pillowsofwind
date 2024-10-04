@@ -1,4 +1,4 @@
-## Hello World! I am Xu Rongwu 👋
+## Hello World! I am Rongwu Xu (许融武) 👋
 
 🤖 I am currently a Master's student focus on various topics regarding **NLP and AI**, including but not limited to:
 
