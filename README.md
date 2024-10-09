@@ -6,4 +6,4 @@
 - Evaluation: benchmarks, metrics, protocols, simulation and analysis
 - Social NLP: safety, privacy, ethics and biases
 
-🤗 **Always Seeking Collaborators:** If you are interested in my work (refer to [this link](https://rongwuxu.site)) or see potential for collaboration, please do not hesitate to contact me via [this Email](mailto:0xrwxu@gmail.com)!
+🤗 **Always Seeking Collaborators:** If you are interested in my work (refer to [this link](https://rongwuxu.com)) or see potential for collaboration, please do not hesitate to contact me via [this Email](mailto:0xrwxu@gmail.com)!
