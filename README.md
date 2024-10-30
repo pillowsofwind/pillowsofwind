@@ -4,7 +4,7 @@
 
 I often employ the following techniques:
 
-- Data-Engineering: data-driven learning, synthetic data, data generation and data assessment
-- Evaluation: benchmarks, metrics, protocols, simulation and analysis
+- Data-Engineering: data curation, data-driven learning, synthetic data generation and data assessment
+- Evaluation: benchmarks, metrics, protocols, simulation, analysis and philosophy of evaluation
 
 🤗 **Always Seeking Collaborators:** If you are interested in my work (refer to [rongwuxu.com](https://rongwuxu.com)) or see potential for collaboration, please do not hesitate to contact me via [this Email](mailto:0xrwxu@gmail.com)!
